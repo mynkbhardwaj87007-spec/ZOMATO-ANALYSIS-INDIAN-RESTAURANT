@@ -30,13 +30,13 @@ The analysis answers real stakeholder questions:
 ## 📊 Dashboard Preview
 
 ### Page 1 — Executive Overview
-![Page 1](dashboard/dashboard_page1.png)
+![Page 1](dashboard_page1.png)
 
 ### Page 2 — Customer Behavior & Trust
-![Page 2](dashboard/dashboard_page2.png)
+![Page 2](dashboard_page2.png)
 
 ### Page 3 — Business Strategy
-![Page 3](dashboard/dashboard_page3.png)
+![Page 3](dashboard_page3.png)
 
 ---
 
