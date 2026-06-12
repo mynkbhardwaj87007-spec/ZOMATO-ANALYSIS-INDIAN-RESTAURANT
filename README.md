@@ -102,8 +102,8 @@ ZOMATO-ANALYSIS-INDIAN-RESTAURANT/
 **Mayank Bhardwaj**  
 Aspiring Data Analyst | BCA 2026 | Manipal University Jaipur  
 
-[![GitHub](https://img.shields.io/badge/GitHub-mynkbhardwaj87007--spec-black?logo=github)][(https://github.com/mynkbhardwaj87007-spec](https://github.com/mynkbhardwaj87007-spec/ZOMATO-ANALYSIS-INDIAN-RESTAURANT))  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)]([https://www.linkedin.com/in/YOUR-LINKEDIN-URL](https://www.linkedin.com/in/mayank-bhardwaj-87b36835b/))
+[![GitHub](https://img.shields.io/badge/GitHub-mynkbhardwaj87007--spec-black?logo=github)](https://github.com/mynkbhardwaj87007-spec/ZOMATO-ANALYSIS-INDIAN-RESTAURANT)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/mayank-bhardwaj-87b36835b/)
 
 ---
 
